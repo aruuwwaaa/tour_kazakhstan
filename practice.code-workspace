@@ -1,0 +1,79 @@
+{
+	"folders": [
+		{
+			"path": "../practice"
+		},
+		{
+			"path": "../turkey"
+		},
+		{
+			"path": "../src"
+		},
+		{
+			"path": "../Chinese"
+		},
+		{
+			"path": "../grid"
+		},
+		{
+			"path": "../dark mode"
+		},
+		{
+			"path": "../color.js"
+		},
+		{
+			"path": "../counter"
+		},
+		{
+			"path": "../product-slider"
+		},
+		{
+			"path": "../slider"
+		},
+		{
+			"path": "../travelJ"
+		},
+		{
+			"path": "../tourgoi"
+		},
+		{
+			"path": "../navbar"
+		},
+		{
+			"path": "../sidebar"
+		},
+		{
+			"path": "../filter"
+		},
+		{
+			"path": "../modal"
+		},
+		{
+			"path": "../questions"
+		},
+		{
+			"path": "../video"
+		},
+		{
+			"path": "../tab"
+		},
+		{
+			"path": "../slider222"
+		},
+		{
+			"path": "../gallery"
+		},
+		{
+			"path": "../keyframes"
+		},
+		{
+			"path": "../register"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tourgoi"
+	}
+}
